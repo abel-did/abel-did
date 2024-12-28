@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Electronic project**
-
 - 💬 Ask me about **VHDL, C, C++**
 
 - 📫 How to reach me **abel.didouh@edu.esiee.fr**
